@@ -83,3 +83,34 @@
     @apply font-bold text-4xl md:text-5xl text-center;
   }
 }
+
+@keyframes horizontal-scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+@keyframes horizontal-scroll-reverse {
+  0% {
+    transform: translateX(-50%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.animate-horizontal-scroll {
+  animation: horizontal-scroll 20s linear infinite;
+}
+
+.animate-horizontal-scroll-reverse {
+  animation: horizontal-scroll-reverse 20s linear infinite;
+}
+
+.group:hover .animate-horizontal-scroll,
+.group:hover .animate-horizontal-scroll-reverse {
+  animation-play-state: paused;
+}
