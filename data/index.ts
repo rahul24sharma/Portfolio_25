@@ -132,7 +132,7 @@ export const testimonials = [
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Rahul was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Rahul's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Rahul is the ideal partner.",
     name: "Sumit Kumar",
     title: "Software Engineer of Webcraft IT",
   },
