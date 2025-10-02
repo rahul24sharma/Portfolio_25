@@ -72,11 +72,11 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "AI Voice Agent Interview Platform",
-    des: "A real-time AI-driven interview simulation platform built with Next.js and Vapi, enabling voice-based candidate evaluations with dynamic routing and role-based interfaces.",
+    title: "JobMatcher Platform",
+    des: "SkillSync Pro is an intelligent job matching platform that revolutionizes how developers find their next opportunity. By analyzing skills from resumes and GitHub profiles, it creates personalized job matches with up to 85% accuracy.",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://github.com/rahul24sharma/Full-Stack-Real-Time-AI-Voice-Agent-Interview-Platform",
+    link: "https://github.com/rahul24sharma/Job-Matcher-Platform",
   },
   {
     id: 2,
@@ -96,11 +96,11 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Fintech Banking App",
-    des: "A fintech banking app that offers a seamless user experience with real-time transaction tracking, personalized budgeting tools, and advanced security features.",
+    title: "AI Powered Legal Document Intelligence platform | ",
+    des: "A distributed document analysis system for clause extraction and prediction, deploying on Azure with testing pipelines to enhance scalability and real-time analytics.",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://ui.apple.com",
+    link: "https://github.com/rahul24sharma/AI-Powered-Legal-Document-Intelligence-platform",
   },
 ];
 
